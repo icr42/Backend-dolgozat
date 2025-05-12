@@ -1,0 +1,4 @@
+backenddolgozat.Robogo@6e8cf4c6 - false
+Audi: AAA-111 - 200 km/h - false
+backenddolgozat.Robogo@cc34f4d - false
+Audi: AAA-111 - 130 km/h - true
